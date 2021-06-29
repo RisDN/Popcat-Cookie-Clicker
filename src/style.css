@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: #ac8f67;
+    font-family: 'Nunito', sans-serif;
+}
+
+img {
+    float: left;
+    margin-left: 13%;
+    cursor: pointer;
+}
+
+.eredmenyjelzo {
+    margin-top: 3%;
+}
+
+.bolt {
+    margin-top: 1%;
+    text-align: center;
+    height: auto;
+    width: 450px;
+    float: right;
+}
+
+button {
+    cursor: pointer;
+}
+
+.vasarlas {
+    padding: 25px;
+}
+
+.nincseleg {
+    margin-top: 15%;
+    color: red;
+}
+
+#nincseleg_kijelzo {
+    display: none;
+}
+
+#sikeres_kijelzo {
+    color: green;
+}
